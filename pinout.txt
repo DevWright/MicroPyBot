@@ -1,0 +1,17 @@
+# GPIO0                 - AIN1
+# GPIO1                 - CLI TX
+# GPIO2  (blue led)     - 
+# GPIO3                 - CLI RX
+# GPIO4                 - AIN2
+# GPIO5                 - APWM
+# GPIO6                 - ?
+# GPIO7                 - ?
+# GPIO8                 - ?
+# GPIO9  (SDD2)         - ?
+# GPIO10 (SDD3)         - ?
+# GPIO11                - ?
+# GPIO12                - BIN1
+# GPIO13                - BIN2
+# GPIO14                - BPWM
+# GPIO15                - STANDBY
+# GPIO16 (red led)      - 
