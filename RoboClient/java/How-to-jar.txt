@@ -1,0 +1,7 @@
+javac RoboClient.java
+
+echo Main-class: RoboClient > manifest.txt
+
+jar cvfm RoboClient.jar manifest.txt *.class
+
+After this just run the jar
